@@ -4,14 +4,12 @@ Some boundaries around our project.
 
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+- Only one hour to create planning files
+- Problems with internet and device
 
 ## Internal: Involuntary
+
+- Difficult to find a common availability
 
 <!--
   constraints that come from within your team, and you have no control over. they may include:
