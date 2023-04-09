@@ -2,25 +2,21 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+- Respect each other during the meeting.
+- Communicate with each other for each files' content.
+- Ask any questions directly without hesitation.
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day                    |        How        |         The topic of discussion          |
+| ---------------------- | :---------------: | :--------------------------------------: |
+| 09-04-2023 13:00-14:00 | meeting in person | Work on Netflix page together as a group |
 
-## Communication Channels
+## Communication
 
-how often will we get in touch on each channel, and what we will discuss there:
-
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- All the communication happens during our physical meeting.
 
 ---
 
@@ -28,17 +24,17 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day      | Sunday  |
+| -------- | :-----: |
+| Yun-Hsia | 13 - 14 |
+| Mervat   | 13 - 14 |
+| Juan     | 13 - 14 |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Yun-Hsia: 1hr on Sunday 09 Apr.
+- Mervat: 1hr on Sunday 09 Apr.
+- Juan: 1hr on Sunday 09 Apr.
 
 ## Asking for Help
 
