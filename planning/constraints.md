@@ -4,6 +4,8 @@ Some boundaries around our project.
 
 ## External
 
+- Only one hour to create planning files
+- problems with internet and device
 <!--
   constraints coming from the outside that your team has no control over. these may include:
   - project deadlines
@@ -12,6 +14,8 @@ Some boundaries around our project.
 -->
 
 ## Internal: Involuntary
+
+- Difficult to find a common availability
 
 <!--
   constraints that come from within your team, and you have no control over. they may include:
