@@ -5,13 +5,7 @@ Some boundaries around our project.
 ## External
 
 - Only one hour to create planning files
-- problems with internet and device
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+- Problems with internet and device
 
 ## Internal: Involuntary
 
